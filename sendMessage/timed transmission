@@ -1,0 +1,3 @@
+root@raspberrypi:/home/pi/Documents#vim /ect/crontab
+crontab:
+0 8 * * * root python3 /hone/pi/Documents/sendMessage.py
